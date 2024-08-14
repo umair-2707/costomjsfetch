@@ -9,7 +9,7 @@ jobs:
         uses: actions/checkout@v4
 
       - id: foo
-        uses: umair-2707/GA-customjs@v1
+        uses: umair-2707/GA-customejs@v1
         with:
           who-to-greet: 'Mona the Octocat'
 
